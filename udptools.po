@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "UDPTools"
+msgstr "UDP工具"
+
+msgid "Config"
+msgstr "配置"
+
+msgid "Control"
+msgstr "启动"
+
+msgid "Server"
+msgstr "服务器"
+
+msgid "ServerPort"
+msgstr "服务器端口"
+
+msgid "Client"
+msgstr "客户端"
+
+msgid "ClientPort"
+msgstr "客户端端口"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Fec"
+msgstr "Fec参数"
