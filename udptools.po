@@ -45,3 +45,10 @@ msgstr "运行状态"
 
 msgid "Name"
 msgid "软件"
+
+msgid "Running"
+msgid "运行中"
+
+msgid "Stoped"
+msgid "未运行"
+
