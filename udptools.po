@@ -11,19 +11,31 @@ msgid "Control"
 msgstr "启动"
 
 msgid "Server"
-msgstr "服务器"
+msgstr "服务器IP"
 
 msgid "ServerPort"
-msgstr "服务器端口"
+msgstr "服务器udp2raw端口"
 
 msgid "Client"
-msgstr "客户端"
+msgstr "客户端IP"
 
 msgid "ClientPort"
-msgstr "客户端端口"
+msgstr "客户端udpspeeder端口"
 
 msgid "Password"
 msgstr "密码"
 
 msgid "Fec"
 msgstr "Fec参数"
+
+msgid "Timeout"
+msgstr "Fec延迟"
+
+msgid "UDPStatus"
+msgstr "运行状态"
+
+msgid "enable or disable UDPTools"
+msgstr "开启或关闭UDPTools服务"
+
+msgid "udpspeeder and udp2raw"
+msgstr "配置udpspeeder和udp2raw的参数"
