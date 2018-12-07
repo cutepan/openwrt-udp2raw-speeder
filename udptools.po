@@ -10,13 +10,13 @@ msgstr "配置"
 msgid "Control"
 msgstr "启动"
 
-msgid "Server"
+msgid "UDPServer"
 msgstr "服务器IP"
 
 msgid "ServerPort"
 msgstr "服务器udp2raw端口"
 
-msgid "Client"
+msgid "UDPClient"
 msgstr "客户端IP"
 
 msgid "ClientPort"
