@@ -39,3 +39,9 @@ msgstr "开启或关闭UDPTools服务"
 
 msgid "udpspeeder and udp2raw"
 msgstr "配置udpspeeder和udp2raw的参数"
+
+msgid "Running Status"
+msgstr "运行状态"
+
+msgid "Name"
+msgid "软件"
