@@ -52,3 +52,6 @@ msgid "运行中"
 msgid "Stoped"
 msgid "未运行"
 
+msgid "Manage"
+msgid "管理"
+
