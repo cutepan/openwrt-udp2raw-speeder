@@ -55,3 +55,23 @@ msgid "未运行"
 msgid "Manage"
 msgid "管理"
 
+msgid "UDPServerDesc"
+msgid "服务器的ip地址"
+
+msgid "ServerPortDesc"
+msgid "服务端端口，即服务端udp2raw监听的端口"
+
+msgid "UDPClientDesc"
+msgid "客户端IP，即udpspeeder本地ip"
+
+msgid "ClientPortDesc"
+msgid "客户端端口，即udpspeeder监听的本地端口"
+
+msgid "PasswordDesc"
+msgid "udp2raw的加密密码"
+
+msgid "FecDesc"
+msgid "填写Fec参数，例如游戏场景：2:4 视频网页场景：20:10"
+
+msgid "TimeoutDesc"
+msgid "Fec允许的延迟，单位秒"
